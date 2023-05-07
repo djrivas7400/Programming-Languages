@@ -1,5 +1,5 @@
 # Programming-Languages
-Homework assignments from CSC540 Programming Languages course
+Homework assignments from CSC540 Programming Languages course and in class coding
 
 1. A1.java
 2. A2.java
