@@ -1,3 +1,5 @@
+#Write a recursive function that returns the length of list
+
 #Option 1
 let rec length l = if l=[] then 0 else length(List.tl l)+1;;
 
