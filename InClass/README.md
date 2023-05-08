@@ -1,7 +1,7 @@
-#In Class OCaml programming examples
+# In Class OCaml programming examples
 
 1. AddOne.ml
-  * Write a recursive function that adds 1 to every element in a list
+  1. Write a recursive function that adds 1 to every element in a list
 3. GreaterThan0.ml
   *Write a recursive function that returns true if all elements of a int list are greater than 0, false otherwise
 4. addfirsttwolengths.ml
